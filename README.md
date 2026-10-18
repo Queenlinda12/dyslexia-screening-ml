@@ -2,8 +2,8 @@
 **Machine-learning screening from children's handwriting and reading-game play**
 Sheja Queen Linda · African Leadership University · ML Final Project
 
-- Report:   [Report](Report.pdf)
--  Video: [add link]
+- Notebook: (https://colab.research.google.com/drive/1LbmNka4JYYlYZH_glCiPN7IefzXsMYE3?usp=sharing)
+-  Video: (https://youtu.be/T_0BVcCBvHY)
 -  Drive (models & logs): (https://drive.google.com/drive/folders/1otzYYGvvjDFKtjItnNcUhGqERP9MFmpG?usp=sharing)
 
 ## Overview
