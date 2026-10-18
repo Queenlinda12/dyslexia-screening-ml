@@ -2,7 +2,9 @@
 **Machine-learning screening from children's handwriting and reading-game play**
 Sheja Queen Linda · African Leadership University · ML Final Project
 
-📄 Report:   [Report](Report.pdf) · 🎥 Video: [add link] · 💾 Drive (models & logs): (https://drive.google.com/drive/folders/1otzYYGvvjDFKtjItnNcUhGqERP9MFmpG?usp=sharing)
+- Report:   [Report](Report.pdf)
+-  Video: [add link]
+-  Drive (models & logs): (https://drive.google.com/drive/folders/1otzYYGvvjDFKtjItnNcUhGqERP9MFmpG?usp=sharing)
 
 ## Overview
 Dyslexia often goes unnoticed in schools without specialists. This project builds two low-cost screening tools (not diagnosis) to help teachers refer children early:
